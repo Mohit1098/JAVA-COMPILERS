@@ -1,0 +1,3 @@
+This assignment is the first part of a multi part project to write an optimizing compiler for Minijava. We start with the LL(k) grammar for minijava and follow simplification and optimization phases, similar to what is seen in a standard optimizing compiler. In this assignment, we will implement a type checker for the minijava compiler. 
+
+For more details refer course page- http://www.cse.iitm.ac.in/~krishna/cs3300/

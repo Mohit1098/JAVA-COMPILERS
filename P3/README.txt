@@ -1,0 +1,3 @@
+This assignment is the second part of a multi part project to write an optimizing compiler for Minijava. We start with typechecked Minijava programs and generate programs in MiniIR format. Akin to a standard optimizing compiler, in this assignment, we will implement a module that translates programs in a high level language (minijava) to programs in intermediate form (miniIR). 
+
+For more details refer course page- http://www.cse.iitm.ac.in/~krishna/cs3300/
